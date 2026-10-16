@@ -1,0 +1,4783 @@
+{
+  "Tables": [
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 6,
+          "Points": 18,
+          "Position": 1,
+          "TeamLogo": "",
+          "TeamName": "Manchester City",
+          "GoalsAgainst": 5,
+          "GoalDifference": 11
+        },
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 15,
+          "Position": 2,
+          "TeamLogo": "",
+          "TeamName": "Arsenal",
+          "GoalsAgainst": 5,
+          "GoalDifference": 5
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 1,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 13,
+          "Position": 3,
+          "TeamLogo": "",
+          "TeamName": "Brighton & Hove Albion",
+          "GoalsAgainst": 5,
+          "GoalDifference": 13
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 4,
+          "Losses": 0,
+          "Played": 6,
+          "Points": 10,
+          "Position": 4,
+          "TeamLogo": "",
+          "TeamName": "Brentford",
+          "GoalsAgainst": 6,
+          "GoalDifference": 6
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 4,
+          "Losses": 0,
+          "Played": 6,
+          "Points": 10,
+          "Position": 5,
+          "TeamLogo": "",
+          "TeamName": "Everton",
+          "GoalsAgainst": 5,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 10,
+          "Position": 6,
+          "TeamLogo": "",
+          "TeamName": "Chelsea",
+          "GoalsAgainst": 13,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 3,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 9,
+          "Position": 7,
+          "TeamLogo": "",
+          "TeamName": "Leeds United",
+          "GoalsAgainst": 5,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 3,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 9,
+          "Position": 8,
+          "TeamLogo": "",
+          "TeamName": "Hull City",
+          "GoalsAgainst": 6,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 3,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 9,
+          "Position": 9,
+          "TeamLogo": "",
+          "TeamName": "Liverpool",
+          "GoalsAgainst": 7,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 9,
+          "Position": 10,
+          "TeamLogo": "",
+          "TeamName": "Ipswich Town",
+          "GoalsAgainst": 12,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 8,
+          "Position": 11,
+          "TeamLogo": "",
+          "TeamName": "Newcastle United",
+          "GoalsAgainst": 13,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 7,
+          "Position": 12,
+          "TeamLogo": "",
+          "TeamName": "Crystal Palace",
+          "GoalsAgainst": 12,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 3,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 6,
+          "Position": 13,
+          "TeamLogo": "",
+          "TeamName": "Manchester United",
+          "GoalsAgainst": 9,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 6,
+          "Position": 14,
+          "TeamLogo": "",
+          "TeamName": "Coventry City",
+          "GoalsAgainst": 11,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 2,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 5,
+          "Position": 15,
+          "TeamLogo": "",
+          "TeamName": "Nottingham Forest",
+          "GoalsAgainst": 8,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 2,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 5,
+          "Position": 16,
+          "TeamLogo": "",
+          "TeamName": "Aston Villa",
+          "GoalsAgainst": 11,
+          "GoalDifference": -5
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 4,
+          "Position": 17,
+          "TeamLogo": "",
+          "TeamName": "Sunderland",
+          "GoalsAgainst": 12,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 3,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 3,
+          "Position": 18,
+          "TeamLogo": "",
+          "TeamName": "AFC Bournemouth",
+          "GoalsAgainst": 13,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 3,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 3,
+          "Position": 19,
+          "TeamLogo": "",
+          "TeamName": "Tottenham Hotspur",
+          "GoalsAgainst": 9,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 2,
+          "Position": 20,
+          "TeamLogo": "",
+          "TeamName": "Fulham",
+          "GoalsAgainst": 10,
+          "GoalDifference": -4
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/gb.png",
+      "CountryName": "England",
+      "CompetitionName": "Premier League"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 8,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 8,
+          "Points": 24,
+          "Position": 1,
+          "TeamLogo": "",
+          "TeamName": "FC Barcelona",
+          "GoalsAgainst": 7,
+          "GoalDifference": 27
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 1,
+          "Losses": 1,
+          "Played": 8,
+          "Points": 19,
+          "Position": 2,
+          "TeamLogo": "",
+          "TeamName": "Atlético de Madrid",
+          "GoalsAgainst": 8,
+          "GoalDifference": 10
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 1,
+          "Losses": 1,
+          "Played": 8,
+          "Points": 19,
+          "Position": 3,
+          "TeamLogo": "",
+          "TeamName": "Real Betis",
+          "GoalsAgainst": 9,
+          "GoalDifference": 5
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 8,
+          "Points": 18,
+          "Position": 4,
+          "TeamLogo": "",
+          "TeamName": "Real Madrid",
+          "GoalsAgainst": 8,
+          "GoalDifference": 11
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 8,
+          "Points": 14,
+          "Position": 5,
+          "TeamLogo": "",
+          "TeamName": "Sevilla FC",
+          "GoalsAgainst": 12,
+          "GoalDifference": 1
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 8,
+          "Points": 13,
+          "Position": 6,
+          "TeamLogo": "",
+          "TeamName": "Real Sociedad",
+          "GoalsAgainst": 15,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 2,
+          "Losses": 3,
+          "Played": 8,
+          "Points": 11,
+          "Position": 7,
+          "TeamLogo": "",
+          "TeamName": "Deportivo Alavés",
+          "GoalsAgainst": 8,
+          "GoalDifference": 4
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 4,
+          "Losses": 2,
+          "Played": 8,
+          "Points": 10,
+          "Position": 8,
+          "TeamLogo": "",
+          "TeamName": "RC Deportivo",
+          "GoalsAgainst": 11,
+          "GoalDifference": 1
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 5,
+          "Losses": 2,
+          "Played": 8,
+          "Points": 8,
+          "Position": 9,
+          "TeamLogo": "",
+          "TeamName": "Celta",
+          "GoalsAgainst": 6,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 8,
+          "Position": 10,
+          "TeamLogo": "",
+          "TeamName": "Athletic Club",
+          "GoalsAgainst": 6,
+          "GoalDifference": 1
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 8,
+          "Position": 11,
+          "TeamLogo": "",
+          "TeamName": "Villarreal CF",
+          "GoalsAgainst": 13,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 8,
+          "Position": 12,
+          "TeamLogo": "",
+          "TeamName": "RCD Espanyol de Barcelona",
+          "GoalsAgainst": 11,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 3,
+          "Played": 7,
+          "Points": 8,
+          "Position": 13,
+          "TeamLogo": "",
+          "TeamName": "Rayo Vallecano",
+          "GoalsAgainst": 16,
+          "GoalDifference": -5
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 8,
+          "Position": 14,
+          "TeamLogo": "",
+          "TeamName": "Getafe CF",
+          "GoalsAgainst": 10,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 8,
+          "Position": 15,
+          "TeamLogo": "",
+          "TeamName": "R. Racing Club",
+          "GoalsAgainst": 23,
+          "GoalDifference": -10
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 8,
+          "Position": 16,
+          "TeamLogo": "",
+          "TeamName": "CA Osasuna",
+          "GoalsAgainst": 18,
+          "GoalDifference": -10
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 3,
+          "Losses": 3,
+          "Played": 7,
+          "Points": 6,
+          "Position": 17,
+          "TeamLogo": "",
+          "TeamName": "Levante UD",
+          "GoalsAgainst": 15,
+          "GoalDifference": -4
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 3,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 6,
+          "Position": 18,
+          "TeamLogo": "",
+          "TeamName": "Elche CF",
+          "GoalsAgainst": 17,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 2,
+          "Losses": 5,
+          "Played": 8,
+          "Points": 5,
+          "Position": 19,
+          "TeamLogo": "",
+          "TeamName": "Valencia CF",
+          "GoalsAgainst": 15,
+          "GoalDifference": -9
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 4,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 4,
+          "Position": 20,
+          "TeamLogo": "",
+          "TeamName": "Málaga CF",
+          "GoalsAgainst": 13,
+          "GoalDifference": -9
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/es.png",
+      "CountryName": "Spain",
+      "CompetitionName": "La Liga"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 5,
+          "Points": 13,
+          "Position": 1,
+          "TeamLogo": "",
+          "TeamName": "Freiburg",
+          "GoalsAgainst": 4,
+          "GoalDifference": 10
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 5,
+          "Points": 13,
+          "Position": 2,
+          "TeamLogo": "",
+          "TeamName": "Borussia Dortmund",
+          "GoalsAgainst": 4,
+          "GoalDifference": 7
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 5,
+          "Points": 11,
+          "Position": 3,
+          "TeamLogo": "",
+          "TeamName": "Bayern Munich",
+          "GoalsAgainst": 4,
+          "GoalDifference": 12
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 1,
+          "Played": 5,
+          "Points": 10,
+          "Position": 4,
+          "TeamLogo": "",
+          "TeamName": "Bayer Leverkusen",
+          "GoalsAgainst": 8,
+          "GoalDifference": 6
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 9,
+          "Position": 5,
+          "TeamLogo": "",
+          "TeamName": "RB Leipzig",
+          "GoalsAgainst": 5,
+          "GoalDifference": 10
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 1,
+          "Played": 5,
+          "Points": 8,
+          "Position": 6,
+          "TeamLogo": "",
+          "TeamName": "Augsburg",
+          "GoalsAgainst": 8,
+          "GoalDifference": 5
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 1,
+          "Played": 5,
+          "Points": 8,
+          "Position": 7,
+          "TeamLogo": "",
+          "TeamName": "Werder Bremen",
+          "GoalsAgainst": 10,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 1,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 7,
+          "Position": 8,
+          "TeamLogo": "",
+          "TeamName": "Mainz",
+          "GoalsAgainst": 10,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 1,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 7,
+          "Position": 9,
+          "TeamLogo": "",
+          "TeamName": "Elversberg",
+          "GoalsAgainst": 8,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 1,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 7,
+          "Position": 10,
+          "TeamLogo": "",
+          "TeamName": "Cologne",
+          "GoalsAgainst": 10,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 6,
+          "Position": 11,
+          "TeamLogo": "",
+          "TeamName": "VfB Stuttgart",
+          "GoalsAgainst": 9,
+          "GoalDifference": -1
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 6,
+          "Position": 12,
+          "TeamLogo": "",
+          "TeamName": "Hamburg",
+          "GoalsAgainst": 15,
+          "GoalDifference": -10
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 5,
+          "Position": 13,
+          "TeamLogo": "",
+          "TeamName": "Schalke",
+          "GoalsAgainst": 6,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 5,
+          "Position": 14,
+          "TeamLogo": "",
+          "TeamName": "Eintracht Frankfurt",
+          "GoalsAgainst": 16,
+          "GoalDifference": -7
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 15,
+          "TeamLogo": "",
+          "TeamName": "Paderborn",
+          "GoalsAgainst": 7,
+          "GoalDifference": -4
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 16,
+          "TeamLogo": "",
+          "TeamName": "Union Berlin",
+          "GoalsAgainst": 17,
+          "GoalDifference": -12
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 5,
+          "Points": 3,
+          "Position": 17,
+          "TeamLogo": "",
+          "TeamName": "Hoffenheim",
+          "GoalsAgainst": 13,
+          "GoalDifference": -4
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 5,
+          "Played": 5,
+          "Points": 0,
+          "Position": 18,
+          "TeamLogo": "",
+          "TeamName": "Borussia Mönchengladbach",
+          "GoalsAgainst": 18,
+          "GoalDifference": -11
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/de.png",
+      "CountryName": "Germany",
+      "CompetitionName": "Bundesliga"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 6,
+          "Points": 16,
+          "Position": 1,
+          "TeamLogo": "",
+          "TeamName": "Inter Milan",
+          "GoalsAgainst": 8,
+          "GoalDifference": 10
+        },
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 6,
+          "Points": 16,
+          "Position": 2,
+          "TeamLogo": "",
+          "TeamName": "Lazio",
+          "GoalsAgainst": 4,
+          "GoalDifference": 7
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 6,
+          "Points": 14,
+          "Position": 3,
+          "TeamLogo": "",
+          "TeamName": "Roma",
+          "GoalsAgainst": 3,
+          "GoalDifference": 11
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 1,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 13,
+          "Position": 4,
+          "TeamLogo": "",
+          "TeamName": "Cagliari",
+          "GoalsAgainst": 3,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 3,
+          "Losses": 0,
+          "Played": 6,
+          "Points": 12,
+          "Position": 5,
+          "TeamLogo": "",
+          "TeamName": "AC Milan",
+          "GoalsAgainst": 5,
+          "GoalDifference": 6
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 2,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 11,
+          "Position": 6,
+          "TeamLogo": "",
+          "TeamName": "Juventus",
+          "GoalsAgainst": 5,
+          "GoalDifference": 4
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 2,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 11,
+          "Position": 7,
+          "TeamLogo": "",
+          "TeamName": "Como",
+          "GoalsAgainst": 6,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 10,
+          "Position": 8,
+          "TeamLogo": "",
+          "TeamName": "Napoli",
+          "GoalsAgainst": 6,
+          "GoalDifference": 4
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 10,
+          "Position": 9,
+          "TeamLogo": "",
+          "TeamName": "Frosinone Calcio",
+          "GoalsAgainst": 7,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 9,
+          "Position": 10,
+          "TeamLogo": "",
+          "TeamName": "Atalanta",
+          "GoalsAgainst": 8,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 8,
+          "Position": 11,
+          "TeamLogo": "",
+          "TeamName": "Sassuolo",
+          "GoalsAgainst": 10,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 7,
+          "Position": 12,
+          "TeamLogo": "",
+          "TeamName": "Torino",
+          "GoalsAgainst": 9,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 6,
+          "Position": 13,
+          "TeamLogo": "",
+          "TeamName": "Lecce",
+          "GoalsAgainst": 12,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 2,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 5,
+          "Position": 14,
+          "TeamLogo": "",
+          "TeamName": "Bologna",
+          "GoalsAgainst": 7,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 4,
+          "Position": 15,
+          "TeamLogo": "",
+          "TeamName": "Udinese",
+          "GoalsAgainst": 13,
+          "GoalDifference": -4
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 4,
+          "Position": 16,
+          "TeamLogo": "",
+          "TeamName": "AC Monza",
+          "GoalsAgainst": 15,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 4,
+          "Position": 17,
+          "TeamLogo": "",
+          "TeamName": "Genoa",
+          "GoalsAgainst": 11,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 4,
+          "Position": 18,
+          "TeamLogo": "",
+          "TeamName": "Parma",
+          "GoalsAgainst": 10,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 4,
+          "Position": 19,
+          "TeamLogo": "",
+          "TeamName": "Fiorentina",
+          "GoalsAgainst": 14,
+          "GoalDifference": -7
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 6,
+          "Played": 6,
+          "Points": 0,
+          "Position": 20,
+          "TeamLogo": "",
+          "TeamName": "Venezia FC",
+          "GoalsAgainst": 16,
+          "GoalDifference": -11
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/it.png",
+      "CountryName": "Italy",
+      "CompetitionName": "Serie A"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 6,
+          "Points": 14,
+          "Position": 1,
+          "TeamLogo": "",
+          "TeamName": "Monaco",
+          "GoalsAgainst": 5,
+          "GoalDifference": 5
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 1,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 13,
+          "Position": 2,
+          "TeamLogo": "",
+          "TeamName": "Lille",
+          "GoalsAgainst": 4,
+          "GoalDifference": 5
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 1,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 13,
+          "Position": 3,
+          "TeamLogo": "",
+          "TeamName": "Rennes",
+          "GoalsAgainst": 10,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 2,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 11,
+          "Position": 4,
+          "TeamLogo": "",
+          "TeamName": "Lyon",
+          "GoalsAgainst": 4,
+          "GoalDifference": 7
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 2,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 11,
+          "Position": 5,
+          "TeamLogo": "",
+          "TeamName": "Paris FC",
+          "GoalsAgainst": 4,
+          "GoalDifference": 4
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 2,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 11,
+          "Position": 6,
+          "TeamLogo": "",
+          "TeamName": "Paris Saint-Germain",
+          "GoalsAgainst": 8,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 8,
+          "Position": 7,
+          "TeamLogo": "",
+          "TeamName": "Brest",
+          "GoalsAgainst": 9,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 8,
+          "Position": 8,
+          "TeamLogo": "",
+          "TeamName": "Lorient",
+          "GoalsAgainst": 6,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 8,
+          "Position": 9,
+          "TeamLogo": "",
+          "TeamName": "Nice",
+          "GoalsAgainst": 7,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 7,
+          "Position": 10,
+          "TeamLogo": "",
+          "TeamName": "Lens",
+          "GoalsAgainst": 10,
+          "GoalDifference": 1
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 7,
+          "Position": 11,
+          "TeamLogo": "",
+          "TeamName": "Strasbourg",
+          "GoalsAgainst": 12,
+          "GoalDifference": -1
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 7,
+          "Position": 12,
+          "TeamLogo": "",
+          "TeamName": "Angers",
+          "GoalsAgainst": 10,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 6,
+          "Position": 13,
+          "TeamLogo": "",
+          "TeamName": "Marseille",
+          "GoalsAgainst": 8,
+          "GoalDifference": 1
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 3,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 6,
+          "Position": 14,
+          "TeamLogo": "",
+          "TeamName": "Le Mans",
+          "GoalsAgainst": 12,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 3,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 6,
+          "Position": 15,
+          "TeamLogo": "",
+          "TeamName": "Toulouse",
+          "GoalsAgainst": 11,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 6,
+          "Position": 16,
+          "TeamLogo": "",
+          "TeamName": "Auxerre",
+          "GoalsAgainst": 16,
+          "GoalDifference": -8
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 4,
+          "Position": 17,
+          "TeamLogo": "",
+          "TeamName": "Troyes",
+          "GoalsAgainst": 13,
+          "GoalDifference": -9
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 2,
+          "Position": 18,
+          "TeamLogo": "",
+          "TeamName": "Le Havre",
+          "GoalsAgainst": 8,
+          "GoalDifference": -4
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/fr.png",
+      "CountryName": "France",
+      "CompetitionName": "Ligue 1"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Atlanta Hawks",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Boston Celtics",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Brooklyn Nets",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Charlotte Hornets",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Chicago Bulls",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Cleveland Cavaliers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Dallas Mavericks",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Denver Nuggets",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Detroit Pistons",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Golden State Warriors",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Houston Rockets",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Indiana Pacers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "LA Clippers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Los Angeles Lakers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Memphis Grizzlies",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Miami Heat",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Milwaukee Bucks",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Minnesota Timberwolves",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "New Orleans Pelicans",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "New York Knicks",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Oklahoma City Thunder",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Orlando Magic",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Philadelphia 76ers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Phoenix Suns",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Portland Trail Blazers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Sacramento Kings",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "San Antonio Spurs",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Toronto Raptors",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Utah Jazz",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "",
+          "TeamName": "Washington Wizards",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "CompetitionName": "NBA"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 5,
+          "Points": 10,
+          "Position": 1,
+          "TeamLogo": "",
+          "TeamName": "San Francisco 49ers",
+          "GoalsAgainst": 93,
+          "GoalDifference": 61
+        },
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 5,
+          "Points": 10,
+          "Position": 2,
+          "TeamLogo": "",
+          "TeamName": "Minnesota Vikings",
+          "GoalsAgainst": 64,
+          "GoalDifference": 45
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 8,
+          "Position": 3,
+          "TeamLogo": "",
+          "TeamName": "Kansas City Chiefs",
+          "GoalsAgainst": 77,
+          "GoalDifference": 41
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 5,
+          "Points": 8,
+          "Position": 4,
+          "TeamLogo": "",
+          "TeamName": "Jacksonville Jaguars",
+          "GoalsAgainst": 70,
+          "GoalDifference": 53
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 5,
+          "Points": 8,
+          "Position": 5,
+          "TeamLogo": "",
+          "TeamName": "Baltimore Ravens",
+          "GoalsAgainst": 119,
+          "GoalDifference": 27
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 5,
+          "Points": 8,
+          "Position": 6,
+          "TeamLogo": "",
+          "TeamName": "Buffalo Bills",
+          "GoalsAgainst": 141,
+          "GoalDifference": 23
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 1,
+          "Played": 5,
+          "Points": 7,
+          "Position": 7,
+          "TeamLogo": "",
+          "TeamName": "New York Giants",
+          "GoalsAgainst": 106,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 8,
+          "Position": 8,
+          "TeamLogo": "",
+          "TeamName": "Denver Broncos",
+          "GoalsAgainst": 125,
+          "GoalDifference": -11
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 9,
+          "TeamLogo": "",
+          "TeamName": "Chicago Bears",
+          "GoalsAgainst": 96,
+          "GoalDifference": 23
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 10,
+          "TeamLogo": "",
+          "TeamName": "Cincinnati Bengals",
+          "GoalsAgainst": 109,
+          "GoalDifference": 19
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 11,
+          "TeamLogo": "",
+          "TeamName": "Detroit Lions",
+          "GoalsAgainst": 148,
+          "GoalDifference": 16
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 12,
+          "TeamLogo": "",
+          "TeamName": "New England Patriots",
+          "GoalsAgainst": 94,
+          "GoalDifference": 16
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 13,
+          "TeamLogo": "",
+          "TeamName": "Las Vegas Raiders",
+          "GoalsAgainst": 129,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 14,
+          "TeamLogo": "",
+          "TeamName": "Pittsburgh Steelers",
+          "GoalsAgainst": 109,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 15,
+          "TeamLogo": "",
+          "TeamName": "Green Bay Packers",
+          "GoalsAgainst": 112,
+          "GoalDifference": -8
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 16,
+          "TeamLogo": "",
+          "TeamName": "Cleveland Browns",
+          "GoalsAgainst": 112,
+          "GoalDifference": -19
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 6,
+          "Position": 17,
+          "TeamLogo": "",
+          "TeamName": "Seattle Seahawks",
+          "GoalsAgainst": 122,
+          "GoalDifference": 26
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 4,
+          "Points": 4,
+          "Position": 18,
+          "TeamLogo": "",
+          "TeamName": "Carolina Panthers",
+          "GoalsAgainst": 109,
+          "GoalDifference": 12
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 19,
+          "TeamLogo": "",
+          "TeamName": "Dallas Cowboys",
+          "GoalsAgainst": 136,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 20,
+          "TeamLogo": "",
+          "TeamName": "Los Angeles Rams",
+          "GoalsAgainst": 120,
+          "GoalDifference": -1
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 21,
+          "TeamLogo": "",
+          "TeamName": "Atlanta Falcons",
+          "GoalsAgainst": 122,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 22,
+          "TeamLogo": "",
+          "TeamName": "New York Jets",
+          "GoalsAgainst": 96,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 23,
+          "TeamLogo": "",
+          "TeamName": "Indianapolis Colts",
+          "GoalsAgainst": 138,
+          "GoalDifference": -14
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 24,
+          "TeamLogo": "",
+          "TeamName": "Philadelphia Eagles",
+          "GoalsAgainst": 112,
+          "GoalDifference": -20
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 3,
+          "Position": 25,
+          "TeamLogo": "",
+          "TeamName": "Washington Commanders",
+          "GoalsAgainst": 149,
+          "GoalDifference": -34
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 5,
+          "Points": 2,
+          "Position": 26,
+          "TeamLogo": "",
+          "TeamName": "Houston Texans",
+          "GoalsAgainst": 112,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 5,
+          "Points": 2,
+          "Position": 27,
+          "TeamLogo": "",
+          "TeamName": "Tampa Bay Buccaneers",
+          "GoalsAgainst": 112,
+          "GoalDifference": -12
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 5,
+          "Points": 2,
+          "Position": 28,
+          "TeamLogo": "",
+          "TeamName": "New Orleans Saints",
+          "GoalsAgainst": 151,
+          "GoalDifference": -33
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 5,
+          "Points": 2,
+          "Position": 29,
+          "TeamLogo": "",
+          "TeamName": "Arizona Cardinals",
+          "GoalsAgainst": 162,
+          "GoalDifference": -54
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 5,
+          "Played": 5,
+          "Points": 0,
+          "Position": 30,
+          "TeamLogo": "",
+          "TeamName": "Los Angeles Chargers",
+          "GoalsAgainst": 129,
+          "GoalDifference": -45
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 5,
+          "Played": 5,
+          "Points": 0,
+          "Position": 31,
+          "TeamLogo": "",
+          "TeamName": "Tennessee Titans",
+          "GoalsAgainst": 109,
+          "GoalDifference": -51
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 5,
+          "Played": 5,
+          "Points": 0,
+          "Position": 32,
+          "TeamLogo": "",
+          "TeamName": "Miami Dolphins",
+          "GoalsAgainst": 132,
+          "GoalDifference": -62
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "CompetitionName": "NFL"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 98,
+          "Draws": 0,
+          "Losses": 64,
+          "Played": 162,
+          "Points": 98,
+          "Position": 1,
+          "TeamLogo": "",
+          "TeamName": "Tampa Bay Rays",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 93,
+          "Draws": 0,
+          "Losses": 68,
+          "Played": 161,
+          "Points": 93,
+          "Position": 2,
+          "TeamLogo": "",
+          "TeamName": "New York Yankees",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 87,
+          "Draws": 0,
+          "Losses": 75,
+          "Played": 162,
+          "Points": 87,
+          "Position": 3,
+          "TeamLogo": "",
+          "TeamName": "Boston Red Sox",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 85,
+          "Draws": 0,
+          "Losses": 77,
+          "Played": 162,
+          "Points": 85,
+          "Position": 4,
+          "TeamLogo": "",
+          "TeamName": "Cleveland Guardians",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 84,
+          "Draws": 0,
+          "Losses": 78,
+          "Played": 162,
+          "Points": 84,
+          "Position": 5,
+          "TeamLogo": "",
+          "TeamName": "Chicago White Sox",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 81,
+          "Draws": 0,
+          "Losses": 81,
+          "Played": 162,
+          "Points": 81,
+          "Position": 6,
+          "TeamLogo": "",
+          "TeamName": "Houston Astros",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 80,
+          "Draws": 0,
+          "Losses": 82,
+          "Played": 162,
+          "Points": 80,
+          "Position": 7,
+          "TeamLogo": "",
+          "TeamName": "Texas Rangers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 79,
+          "Draws": 0,
+          "Losses": 82,
+          "Played": 161,
+          "Points": 79,
+          "Position": 8,
+          "TeamLogo": "",
+          "TeamName": "Baltimore Orioles",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 79,
+          "Draws": 0,
+          "Losses": 83,
+          "Played": 162,
+          "Points": 79,
+          "Position": 9,
+          "TeamLogo": "",
+          "TeamName": "Toronto Blue Jays",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 77,
+          "Draws": 0,
+          "Losses": 85,
+          "Played": 162,
+          "Points": 77,
+          "Position": 10,
+          "TeamLogo": "",
+          "TeamName": "Minnesota Twins",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 76,
+          "Draws": 0,
+          "Losses": 86,
+          "Played": 162,
+          "Points": 76,
+          "Position": 11,
+          "TeamLogo": "",
+          "TeamName": "Detroit Tigers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 76,
+          "Draws": 0,
+          "Losses": 86,
+          "Played": 162,
+          "Points": 76,
+          "Position": 12,
+          "TeamLogo": "",
+          "TeamName": "Seattle Mariners",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 69,
+          "Draws": 0,
+          "Losses": 93,
+          "Played": 162,
+          "Points": 69,
+          "Position": 13,
+          "TeamLogo": "",
+          "TeamName": "Kansas City Royals",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 62,
+          "Draws": 0,
+          "Losses": 100,
+          "Played": 162,
+          "Points": 62,
+          "Position": 14,
+          "TeamLogo": "",
+          "TeamName": "Los Angeles Angels",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 103,
+          "Draws": 0,
+          "Losses": 59,
+          "Played": 162,
+          "Points": 103,
+          "Position": 15,
+          "TeamLogo": "",
+          "TeamName": "Milwaukee Brewers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 100,
+          "Draws": 0,
+          "Losses": 62,
+          "Played": 162,
+          "Points": 100,
+          "Position": 16,
+          "TeamLogo": "",
+          "TeamName": "Los Angeles Dodgers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 94,
+          "Draws": 0,
+          "Losses": 68,
+          "Played": 162,
+          "Points": 94,
+          "Position": 17,
+          "TeamLogo": "",
+          "TeamName": "Atlanta Braves",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 91,
+          "Draws": 0,
+          "Losses": 71,
+          "Played": 162,
+          "Points": 91,
+          "Position": 18,
+          "TeamLogo": "",
+          "TeamName": "San Diego Padres",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 89,
+          "Draws": 0,
+          "Losses": 73,
+          "Played": 162,
+          "Points": 89,
+          "Position": 19,
+          "TeamLogo": "",
+          "TeamName": "Chicago Cubs",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 64,
+          "Draws": 0,
+          "Losses": 98,
+          "Played": 162,
+          "Points": 64,
+          "Position": 20,
+          "TeamLogo": "",
+          "TeamName": "Oakland Athletics",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 88,
+          "Draws": 0,
+          "Losses": 74,
+          "Played": 162,
+          "Points": 88,
+          "Position": 21,
+          "TeamLogo": "",
+          "TeamName": "Philadelphia Phillies",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 86,
+          "Draws": 0,
+          "Losses": 76,
+          "Played": 162,
+          "Points": 86,
+          "Position": 22,
+          "TeamLogo": "",
+          "TeamName": "Arizona Diamondbacks",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 82,
+          "Draws": 0,
+          "Losses": 80,
+          "Played": 162,
+          "Points": 82,
+          "Position": 23,
+          "TeamLogo": "",
+          "TeamName": "Pittsburgh Pirates",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 80,
+          "Draws": 0,
+          "Losses": 82,
+          "Played": 162,
+          "Points": 80,
+          "Position": 24,
+          "TeamLogo": "",
+          "TeamName": "Miami Marlins",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 77,
+          "Draws": 0,
+          "Losses": 85,
+          "Played": 162,
+          "Points": 77,
+          "Position": 25,
+          "TeamLogo": "",
+          "TeamName": "St. Louis Cardinals",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 77,
+          "Draws": 0,
+          "Losses": 85,
+          "Played": 162,
+          "Points": 77,
+          "Position": 26,
+          "TeamLogo": "",
+          "TeamName": "Washington Nationals",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 75,
+          "Draws": 0,
+          "Losses": 87,
+          "Played": 162,
+          "Points": 75,
+          "Position": 27,
+          "TeamLogo": "",
+          "TeamName": "Cincinnati Reds",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 74,
+          "Draws": 0,
+          "Losses": 88,
+          "Played": 162,
+          "Points": 74,
+          "Position": 28,
+          "TeamLogo": "",
+          "TeamName": "New York Mets",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 65,
+          "Draws": 0,
+          "Losses": 97,
+          "Played": 162,
+          "Points": 65,
+          "Position": 29,
+          "TeamLogo": "",
+          "TeamName": "San Francisco Giants",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 58,
+          "Draws": 0,
+          "Losses": 104,
+          "Played": 162,
+          "Points": 58,
+          "Position": 30,
+          "TeamLogo": "",
+          "TeamName": "Colorado Rockies",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "CompetitionName": "MLB"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 7,
+          "Points": 12,
+          "Position": 1,
+          "TeamLogo": "",
+          "TeamName": "Carolina Hurricanes",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 10,
+          "Position": 2,
+          "TeamLogo": "",
+          "TeamName": "Edmonton Oilers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 5,
+          "Points": 8,
+          "Position": 3,
+          "TeamLogo": "",
+          "TeamName": "Winnipeg Jets",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 7,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 9,
+          "Points": 14,
+          "Position": 4,
+          "TeamLogo": "",
+          "TeamName": "Vegas Golden Knights",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 8,
+          "Points": 12,
+          "Position": 5,
+          "TeamLogo": "",
+          "TeamName": "Ottawa Senators",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 8,
+          "Points": 12,
+          "Position": 6,
+          "TeamLogo": "",
+          "TeamName": "Utah Mammoth",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 7,
+          "Points": 10,
+          "Position": 7,
+          "TeamLogo": "",
+          "TeamName": "Boston Bruins",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 7,
+          "Points": 10,
+          "Position": 8,
+          "TeamLogo": "",
+          "TeamName": "Minnesota Wild",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 7,
+          "Points": 10,
+          "Position": 9,
+          "TeamLogo": "",
+          "TeamName": "Seattle Kraken",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 7,
+          "Points": 10,
+          "Position": 10,
+          "TeamLogo": "",
+          "TeamName": "Tampa Bay Lightning",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 9,
+          "Points": 12,
+          "Position": 11,
+          "TeamLogo": "",
+          "TeamName": "New York Rangers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 8,
+          "Position": 12,
+          "TeamLogo": "",
+          "TeamName": "Anaheim Ducks",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 8,
+          "Position": 13,
+          "TeamLogo": "",
+          "TeamName": "Colorado Avalanche",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 8,
+          "Position": 14,
+          "TeamLogo": "",
+          "TeamName": "Florida Panthers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 7,
+          "Points": 8,
+          "Position": 15,
+          "TeamLogo": "",
+          "TeamName": "Buffalo Sabres",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 7,
+          "Points": 8,
+          "Position": 16,
+          "TeamLogo": "",
+          "TeamName": "New Jersey Devils",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 7,
+          "Points": 8,
+          "Position": 17,
+          "TeamLogo": "",
+          "TeamName": "San Jose Sharks",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 7,
+          "Points": 8,
+          "Position": 18,
+          "TeamLogo": "",
+          "TeamName": "Washington Capitals",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 6,
+          "Position": 19,
+          "TeamLogo": "",
+          "TeamName": "Dallas Stars",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 6,
+          "Position": 20,
+          "TeamLogo": "",
+          "TeamName": "Montreal Canadiens",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 6,
+          "Position": 21,
+          "TeamLogo": "",
+          "TeamName": "New York Islanders",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 6,
+          "Position": 22,
+          "TeamLogo": "",
+          "TeamName": "Pittsburgh Penguins",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 6,
+          "Position": 23,
+          "TeamLogo": "",
+          "TeamName": "St. Louis Blues",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 6,
+          "Position": 24,
+          "TeamLogo": "",
+          "TeamName": "Toronto Maple Leafs",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 4,
+          "Points": 4,
+          "Position": 25,
+          "TeamLogo": "",
+          "TeamName": "Nashville Predators",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 26,
+          "TeamLogo": "",
+          "TeamName": "Columbus Blue Jackets",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 27,
+          "TeamLogo": "",
+          "TeamName": "Detroit Red Wings",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 5,
+          "Played": 8,
+          "Points": 6,
+          "Position": 28,
+          "TeamLogo": "",
+          "TeamName": "Chicago Blackhawks",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 6,
+          "Played": 8,
+          "Points": 4,
+          "Position": 29,
+          "TeamLogo": "",
+          "TeamName": "Vancouver Canucks",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 0,
+          "Losses": 6,
+          "Played": 7,
+          "Points": 2,
+          "Position": 30,
+          "TeamLogo": "",
+          "TeamName": "Calgary Flames",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 3,
+          "Points": 0,
+          "Position": 31,
+          "TeamLogo": "",
+          "TeamName": "Los Angeles Kings",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 6,
+          "Played": 6,
+          "Points": 0,
+          "Position": 32,
+          "TeamLogo": "",
+          "TeamName": "Philadelphia Flyers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/ca.png",
+      "CountryName": "Canada",
+      "CompetitionName": "NHL"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 9,
+          "Draws": 0,
+          "Losses": 5,
+          "Played": 14,
+          "Points": 18,
+          "Position": 1,
+          "TeamLogo": "",
+          "TeamName": "Royal Challengers Bengaluru",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 9,
+          "Draws": 0,
+          "Losses": 5,
+          "Played": 14,
+          "Points": 18,
+          "Position": 2,
+          "TeamLogo": "",
+          "TeamName": "Gujarat Titans",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 9,
+          "Draws": 0,
+          "Losses": 5,
+          "Played": 14,
+          "Points": 18,
+          "Position": 3,
+          "TeamLogo": "",
+          "TeamName": "Sunrisers Hyderabad",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 8,
+          "Draws": 0,
+          "Losses": 6,
+          "Played": 14,
+          "Points": 16,
+          "Position": 4,
+          "TeamLogo": "",
+          "TeamName": "Rajasthan Royals",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 7,
+          "Draws": 1,
+          "Losses": 6,
+          "Played": 14,
+          "Points": 15,
+          "Position": 5,
+          "TeamLogo": "",
+          "TeamName": "Punjab Kings",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 7,
+          "Draws": 0,
+          "Losses": 7,
+          "Played": 14,
+          "Points": 14,
+          "Position": 6,
+          "TeamLogo": "",
+          "TeamName": "Delhi Capitals",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 1,
+          "Losses": 7,
+          "Played": 14,
+          "Points": 13,
+          "Position": 7,
+          "TeamLogo": "",
+          "TeamName": "Kolkata Knight Riders",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 0,
+          "Losses": 8,
+          "Played": 14,
+          "Points": 12,
+          "Position": 8,
+          "TeamLogo": "",
+          "TeamName": "Chennai Super Kings",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 10,
+          "Played": 14,
+          "Points": 8,
+          "Position": 9,
+          "TeamLogo": "",
+          "TeamName": "Mumbai Indians",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 10,
+          "Played": 14,
+          "Points": 8,
+          "Position": 10,
+          "TeamLogo": "",
+          "TeamName": "Lucknow Super Giants",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/in.png",
+      "CountryName": "India",
+      "CompetitionName": "IPL"
+    }
+  ],
+  "PlayerConfig": {
+    "ClickCount": 3,
+    "PlayerName": "GoPlayer",
+    "ShowTables": true,
+    "ShowUpdate": false,
+    "ShowFixtures": true,
+    "PlayerPackage": "org.firetube.mediastream",
+    "PlayericonUrl": "https://m.media-amazon.com/images/I/71gqWj6FXHL.png",
+    "UpdatePackage": "com.ukturksapp.fixturestandingni",
+    "UpdateVersion": 1,
+    "ShowTvChannels": false,
+    "ShowLiveMatches": false,
+    "ShowCustomInterAds": false,
+    "PlayInExternalPlayer": false
+  },
+  "CustomInterAds": [],
+  "FootballFixtures": [
+    {
+      "CountryFlag": "https://flagcdn.com/w320/gb.png",
+      "CountryName": "England",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Chelsea",
+              "HomeTeam": "Everton",
+              "MatchTime": "2026-10-17 12:30 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Liverpool",
+              "HomeTeam": "Brentford",
+              "MatchTime": "2026-10-17 15:00 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Hull City",
+              "HomeTeam": "Fulham",
+              "MatchTime": "2026-10-17 15:00 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Ipswich Town",
+              "HomeTeam": "Manchester City",
+              "MatchTime": "2026-10-17 15:00 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Aston Villa",
+              "HomeTeam": "Newcastle United",
+              "MatchTime": "2026-10-17 17:30 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sunderland",
+              "HomeTeam": "AFC Bournemouth",
+              "MatchTime": "2026-10-18 14:00 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Crystal Palace",
+              "HomeTeam": "Brighton & Hove Albion",
+              "MatchTime": "2026-10-18 14:00 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Manchester United",
+              "HomeTeam": "Leeds United",
+              "MatchTime": "2026-10-18 14:00 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Arsenal",
+              "HomeTeam": "Nottingham Forest",
+              "MatchTime": "2026-10-18 16:30 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Coventry City",
+              "HomeTeam": "Tottenham Hotspur",
+              "MatchTime": "2026-10-19 20:00 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Nottingham Forest",
+              "HomeTeam": "Ipswich Town",
+              "MatchTime": "2026-10-23 20:00 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Manchester City",
+              "HomeTeam": "Aston Villa",
+              "MatchTime": "2026-10-24 12:30 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Everton",
+              "HomeTeam": "Arsenal",
+              "MatchTime": "2026-10-24 15:00 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Fulham",
+              "HomeTeam": "Coventry City",
+              "MatchTime": "2026-10-24 15:00 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Tottenham Hotspur",
+              "HomeTeam": "Chelsea",
+              "MatchTime": "2026-10-24 17:30 BST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Newcastle United",
+              "HomeTeam": "Crystal Palace",
+              "MatchTime": "2026-10-25 14:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Brentford",
+              "HomeTeam": "Hull City",
+              "MatchTime": "2026-10-25 14:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Brighton & Hove Albion",
+              "HomeTeam": "Liverpool",
+              "MatchTime": "2026-10-25 14:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "AFC Bournemouth",
+              "HomeTeam": "Manchester United",
+              "MatchTime": "2026-10-25 14:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Leeds United",
+              "HomeTeam": "Sunderland",
+              "MatchTime": "2026-10-25 16:30 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            }
+          ],
+          "CompetitionName": "Premier League"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/es.png",
+      "CountryName": "Spain",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Levante UD",
+              "HomeTeam": "RC Deportivo",
+              "MatchTime": "2026-10-16 21:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Atlético de Madrid",
+              "HomeTeam": "RCD Espanyol de Barcelona",
+              "MatchTime": "2026-10-17 14:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Elche CF",
+              "HomeTeam": "Villarreal CF",
+              "MatchTime": "2026-10-17 16:15 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "FC Barcelona",
+              "HomeTeam": "Real Betis",
+              "MatchTime": "2026-10-17 18:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Athletic Club",
+              "HomeTeam": "Valencia CF",
+              "MatchTime": "2026-10-17 21:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "R. Racing Club",
+              "HomeTeam": "CA Osasuna",
+              "MatchTime": "2026-10-18 14:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Deportivo Alavés",
+              "HomeTeam": "Celta",
+              "MatchTime": "2026-10-18 16:15 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Real Sociedad",
+              "HomeTeam": "Málaga CF",
+              "MatchTime": "2026-10-18 18:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sevilla FC",
+              "HomeTeam": "Real Madrid",
+              "MatchTime": "2026-10-18 21:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Rayo Vallecano",
+              "HomeTeam": "Getafe CF",
+              "MatchTime": "2026-10-19 21:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Athletic Club",
+              "HomeTeam": "Levante UD",
+              "MatchTime": "2026-10-21 20:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Málaga CF",
+              "HomeTeam": "Deportivo Alavés",
+              "MatchTime": "2026-10-23 21:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Elche CF",
+              "HomeTeam": "Rayo Vallecano",
+              "MatchTime": "2026-10-24 14:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "RCD Espanyol de Barcelona",
+              "HomeTeam": "R. Racing Club",
+              "MatchTime": "2026-10-24 16:15 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Villarreal CF",
+              "HomeTeam": "Valencia CF",
+              "MatchTime": "2026-10-24 18:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "RC Deportivo",
+              "HomeTeam": "Atlético de Madrid",
+              "MatchTime": "2026-10-24 21:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Getafe CF",
+              "HomeTeam": "Athletic Club",
+              "MatchTime": "2026-10-25 14:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Real Betis",
+              "HomeTeam": "Celta",
+              "MatchTime": "2026-10-25 16:15 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Levante UD",
+              "HomeTeam": "Real Sociedad",
+              "MatchTime": "2026-10-25 18:30 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Real Madrid",
+              "HomeTeam": "FC Barcelona",
+              "MatchTime": "2026-10-25 21:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            }
+          ],
+          "CompetitionName": "La Liga"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/de.png",
+      "CountryName": "Germany",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Cologne",
+              "HomeTeam": "Eintracht Frankfurt",
+              "MatchTime": "2026-10-16 20:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Augsburg",
+              "HomeTeam": "Elversberg",
+              "MatchTime": "2026-10-17 15:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "VfB Stuttgart",
+              "HomeTeam": "Hamburg",
+              "MatchTime": "2026-10-17 15:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Mainz",
+              "HomeTeam": "Schalke",
+              "MatchTime": "2026-10-17 15:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Borussia Dortmund",
+              "HomeTeam": "Union Berlin",
+              "MatchTime": "2026-10-17 15:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Paderborn",
+              "HomeTeam": "Werder Bremen",
+              "MatchTime": "2026-10-17 15:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "RB Leipzig",
+              "HomeTeam": "Bayern Munich",
+              "MatchTime": "2026-10-17 18:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Freiburg",
+              "HomeTeam": "Bayer Leverkusen",
+              "MatchTime": "2026-10-18 15:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Hoffenheim",
+              "HomeTeam": "Borussia Mönchengladbach",
+              "MatchTime": "2026-10-18 17:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Borussia Mönchengladbach",
+              "HomeTeam": "VfB Stuttgart",
+              "MatchTime": "2026-10-23 20:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Union Berlin",
+              "HomeTeam": "Augsburg",
+              "MatchTime": "2026-10-24 15:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Schalke",
+              "HomeTeam": "Cologne",
+              "MatchTime": "2026-10-24 15:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Werder Bremen",
+              "HomeTeam": "Mainz",
+              "MatchTime": "2026-10-24 15:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Hamburg",
+              "HomeTeam": "Paderborn",
+              "MatchTime": "2026-10-24 15:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Elversberg",
+              "HomeTeam": "RB Leipzig",
+              "MatchTime": "2026-10-24 15:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Eintracht Frankfurt",
+              "HomeTeam": "Borussia Dortmund",
+              "MatchTime": "2026-10-24 18:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Bayer Leverkusen",
+              "HomeTeam": "Hoffenheim",
+              "MatchTime": "2026-10-25 15:30 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Bayern Munich",
+              "HomeTeam": "Freiburg",
+              "MatchTime": "2026-10-25 17:30 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            }
+          ],
+          "CompetitionName": "Bundesliga"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/it.png",
+      "CountryName": "Italy",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sassuolo",
+              "HomeTeam": "Frosinone Calcio",
+              "MatchTime": "2026-10-16 20:45 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Napoli",
+              "HomeTeam": "Venezia FC",
+              "MatchTime": "2026-10-17 15:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Inter Milan",
+              "HomeTeam": "Bologna",
+              "MatchTime": "2026-10-17 18:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Genoa",
+              "HomeTeam": "Roma",
+              "MatchTime": "2026-10-17 20:45 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Lecce",
+              "HomeTeam": "Udinese",
+              "MatchTime": "2026-10-18 12:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Como",
+              "HomeTeam": "Fiorentina",
+              "MatchTime": "2026-10-18 15:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Atalanta",
+              "HomeTeam": "AC Milan",
+              "MatchTime": "2026-10-18 18:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Lazio",
+              "HomeTeam": "Juventus",
+              "MatchTime": "2026-10-18 20:45 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Cagliari",
+              "HomeTeam": "AC Monza",
+              "MatchTime": "2026-10-19 18:30 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Torino",
+              "HomeTeam": "Parma",
+              "MatchTime": "2026-10-19 20:45 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "AC Monza",
+              "HomeTeam": "Torino",
+              "MatchTime": "2026-10-23 20:45 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Bologna",
+              "HomeTeam": "Cagliari",
+              "MatchTime": "2026-10-24 15:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sassuolo",
+              "HomeTeam": "Como",
+              "MatchTime": "2026-10-24 15:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Roma",
+              "HomeTeam": "Napoli",
+              "MatchTime": "2026-10-24 18:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Parma",
+              "HomeTeam": "Lazio",
+              "MatchTime": "2026-10-24 20:45 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Fiorentina",
+              "HomeTeam": "Inter Milan",
+              "MatchTime": "2026-10-25 12:30 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Frosinone Calcio",
+              "HomeTeam": "Atalanta",
+              "MatchTime": "2026-10-25 15:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Venezia FC",
+              "HomeTeam": "Genoa",
+              "MatchTime": "2026-10-25 15:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Juventus",
+              "HomeTeam": "Lecce",
+              "MatchTime": "2026-10-25 18:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "AC Milan",
+              "HomeTeam": "Udinese",
+              "MatchTime": "2026-10-25 20:45 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            }
+          ],
+          "CompetitionName": "Serie A"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/fr.png",
+      "CountryName": "France",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Toulouse",
+              "HomeTeam": "Le Mans",
+              "MatchTime": "2026-10-16 20:45 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Paris Saint-Germain",
+              "HomeTeam": "Strasbourg",
+              "MatchTime": "2026-10-17 17:15 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Brest",
+              "HomeTeam": "Lille",
+              "MatchTime": "2026-10-17 20:45 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Lens",
+              "HomeTeam": "Troyes",
+              "MatchTime": "2026-10-17 20:45 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Marseille",
+              "HomeTeam": "Angers",
+              "MatchTime": "2026-10-18 15:00 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Auxerre",
+              "HomeTeam": "Le Havre",
+              "MatchTime": "2026-10-18 17:15 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Monaco",
+              "HomeTeam": "Lorient",
+              "MatchTime": "2026-10-18 17:15 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Rennes",
+              "HomeTeam": "Paris FC",
+              "MatchTime": "2026-10-18 17:15 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Nice",
+              "HomeTeam": "Lyon",
+              "MatchTime": "2026-10-18 20:45 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Nice",
+              "HomeTeam": "Brest",
+              "MatchTime": "2026-10-23 20:45 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Troyes",
+              "HomeTeam": "Toulouse",
+              "MatchTime": "2026-10-24 17:15 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Paris FC",
+              "HomeTeam": "Lens",
+              "MatchTime": "2026-10-24 20:45 CEST",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Lille",
+              "HomeTeam": "Monaco",
+              "MatchTime": "2026-10-25 15:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Lorient",
+              "HomeTeam": "Angers",
+              "MatchTime": "2026-10-25 17:15 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Le Mans",
+              "HomeTeam": "Auxerre",
+              "MatchTime": "2026-10-25 17:15 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Le Havre",
+              "HomeTeam": "Marseille",
+              "MatchTime": "2026-10-25 17:15 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Strasbourg",
+              "HomeTeam": "Rennes",
+              "MatchTime": "2026-10-25 17:15 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Lyon",
+              "HomeTeam": "Paris Saint-Germain",
+              "MatchTime": "2026-10-25 20:45 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            }
+          ],
+          "CompetitionName": "Ligue 1"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Toronto Raptors",
+              "HomeTeam": "Detroit Pistons",
+              "MatchTime": "2026-10-16 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Milwaukee Bucks",
+              "HomeTeam": "Indiana Pacers",
+              "MatchTime": "2026-10-16 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Miami Heat",
+              "HomeTeam": "Orlando Magic",
+              "MatchTime": "2026-10-16 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Boston Celtics",
+              "HomeTeam": "Philadelphia 76ers",
+              "MatchTime": "2026-10-16 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Minnesota Timberwolves",
+              "HomeTeam": "Chicago Bulls",
+              "MatchTime": "2026-10-16 20:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Atlanta Hawks",
+              "HomeTeam": "Dallas Mavericks",
+              "MatchTime": "2026-10-16 20:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Charlotte Hornets",
+              "HomeTeam": "Memphis Grizzlies",
+              "MatchTime": "2026-10-16 20:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Washington Wizards",
+              "HomeTeam": "New Orleans Pelicans",
+              "MatchTime": "2026-10-16 20:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sacramento Kings",
+              "HomeTeam": "San Antonio Spurs",
+              "MatchTime": "2026-10-16 20:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Portland Trail Blazers",
+              "HomeTeam": "Golden State Warriors",
+              "MatchTime": "2026-10-16 22:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Utah Jazz",
+              "HomeTeam": "Phoenix Suns",
+              "MatchTime": "2026-10-16 22:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Denver Nuggets",
+              "HomeTeam": "Los Angeles Lakers",
+              "MatchTime": "2026-10-16 22:30 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Boston Celtics",
+              "HomeTeam": "Detroit Pistons",
+              "MatchTime": "2026-10-20 15:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Philadelphia 76ers",
+              "HomeTeam": "New York Knicks",
+              "MatchTime": "2026-10-20 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Oklahoma City Thunder",
+              "HomeTeam": "San Antonio Spurs",
+              "MatchTime": "2026-10-20 21:30 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Atlanta Hawks",
+              "HomeTeam": "Orlando Magic",
+              "MatchTime": "2026-10-21 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Milwaukee Bucks",
+              "HomeTeam": "Washington Wizards",
+              "MatchTime": "2026-10-21 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Charlotte Hornets",
+              "HomeTeam": "Brooklyn Nets",
+              "MatchTime": "2026-10-21 19:30 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Minnesota Timberwolves",
+              "HomeTeam": "Miami Heat",
+              "MatchTime": "2026-10-21 19:30 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Chicago Bulls",
+              "HomeTeam": "Toronto Raptors",
+              "MatchTime": "2026-10-21 19:30 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Utah Jazz",
+              "HomeTeam": "Memphis Grizzlies",
+              "MatchTime": "2026-10-21 20:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Indiana Pacers",
+              "HomeTeam": "New Orleans Pelicans",
+              "MatchTime": "2026-10-21 20:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Dallas Mavericks",
+              "HomeTeam": "Houston Rockets",
+              "MatchTime": "2026-10-21 20:30 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Golden State Warriors",
+              "HomeTeam": "Los Angeles Lakers",
+              "MatchTime": "2026-10-21 22:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Phoenix Suns",
+              "HomeTeam": "Portland Trail Blazers",
+              "MatchTime": "2026-10-21 22:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sacramento Kings",
+              "HomeTeam": "LA Clippers",
+              "MatchTime": "2026-10-21 22:30 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Cleveland Cavaliers",
+              "HomeTeam": "Philadelphia 76ers",
+              "MatchTime": "2026-10-22 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Denver Nuggets",
+              "HomeTeam": "Oklahoma City Thunder",
+              "MatchTime": "2026-10-22 21:30 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New York Knicks",
+              "HomeTeam": "Boston Celtics",
+              "MatchTime": "2026-10-23 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Atlanta Hawks",
+              "HomeTeam": "Charlotte Hornets",
+              "MatchTime": "2026-10-23 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Dallas Mavericks",
+              "HomeTeam": "Indiana Pacers",
+              "MatchTime": "2026-10-23 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Minnesota Timberwolves",
+              "HomeTeam": "Orlando Magic",
+              "MatchTime": "2026-10-23 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Toronto Raptors",
+              "HomeTeam": "Washington Wizards",
+              "MatchTime": "2026-10-23 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Detroit Pistons",
+              "HomeTeam": "Miami Heat",
+              "MatchTime": "2026-10-23 20:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Chicago Bulls",
+              "HomeTeam": "Milwaukee Bucks",
+              "MatchTime": "2026-10-23 20:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Houston Rockets",
+              "HomeTeam": "San Antonio Spurs",
+              "MatchTime": "2026-10-23 21:30 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New Orleans Pelicans",
+              "HomeTeam": "Utah Jazz",
+              "MatchTime": "2026-10-23 21:30 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Memphis Grizzlies",
+              "HomeTeam": "Golden State Warriors",
+              "MatchTime": "2026-10-23 22:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "LA Clippers",
+              "HomeTeam": "Los Angeles Lakers",
+              "MatchTime": "2026-10-23 22:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Portland Trail Blazers",
+              "HomeTeam": "Sacramento Kings",
+              "MatchTime": "2026-10-23 22:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Miami Heat",
+              "HomeTeam": "Charlotte Hornets",
+              "MatchTime": "2026-10-24 18:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Brooklyn Nets",
+              "HomeTeam": "Cleveland Cavaliers",
+              "MatchTime": "2026-10-24 19:30 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Milwaukee Bucks",
+              "HomeTeam": "Philadelphia 76ers",
+              "MatchTime": "2026-10-24 19:30 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Washington Wizards",
+              "HomeTeam": "Chicago Bulls",
+              "MatchTime": "2026-10-24 20:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "San Antonio Spurs",
+              "HomeTeam": "Dallas Mavericks",
+              "MatchTime": "2026-10-24 20:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Houston Rockets",
+              "HomeTeam": "Atlanta Hawks",
+              "MatchTime": "2026-10-24 20:30 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New Orleans Pelicans",
+              "HomeTeam": "Denver Nuggets",
+              "MatchTime": "2026-10-24 21:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Golden State Warriors",
+              "HomeTeam": "Phoenix Suns",
+              "MatchTime": "2026-10-24 22:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Los Angeles Lakers",
+              "HomeTeam": "Utah Jazz",
+              "MatchTime": "2026-10-25 17:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Indiana Pacers",
+              "HomeTeam": "Brooklyn Nets",
+              "MatchTime": "2026-10-25 18:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Toronto Raptors",
+              "HomeTeam": "Minnesota Timberwolves",
+              "MatchTime": "2026-10-25 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Orlando Magic",
+              "HomeTeam": "New York Knicks",
+              "MatchTime": "2026-10-25 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "LA Clippers",
+              "HomeTeam": "Oklahoma City Thunder",
+              "MatchTime": "2026-10-25 19:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Detroit Pistons",
+              "HomeTeam": "Philadelphia 76ers",
+              "MatchTime": "2026-10-25 19:30 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Memphis Grizzlies",
+              "HomeTeam": "Sacramento Kings",
+              "MatchTime": "2026-10-25 21:00 EDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            }
+          ],
+          "CompetitionName": "NBA"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Houston Texans",
+              "HomeTeam": "Jacksonville Jaguars",
+              "MatchTime": "2026-10-18 09:30 ET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Chicago Bears",
+              "HomeTeam": "Atlanta Falcons",
+              "MatchTime": "2026-10-18 13:00 ET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Baltimore Ravens",
+              "HomeTeam": "Cleveland Browns",
+              "MatchTime": "2026-10-18 13:00 ET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Tennessee Titans",
+              "HomeTeam": "Indianapolis Colts",
+              "MatchTime": "2026-10-18 13:00 ET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New York Jets",
+              "HomeTeam": "New England Patriots",
+              "MatchTime": "2026-10-18 13:00 ET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New Orleans Saints",
+              "HomeTeam": "New York Giants",
+              "MatchTime": "2026-10-18 13:00 ET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Carolina Panthers",
+              "HomeTeam": "Philadelphia Eagles",
+              "MatchTime": "2026-10-18 13:00 ET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Pittsburgh Steelers",
+              "HomeTeam": "Tampa Bay Buccaneers",
+              "MatchTime": "2026-10-18 13:00 ET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Arizona Cardinals",
+              "HomeTeam": "Los Angeles Rams",
+              "MatchTime": "2026-10-18 16:05 ET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Los Angeles Chargers",
+              "HomeTeam": "Kansas City Chiefs",
+              "MatchTime": "2026-10-18 16:25 ET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Buffalo Bills",
+              "HomeTeam": "Las Vegas Raiders",
+              "MatchTime": "2026-10-18 16:25 ET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Dallas Cowboys",
+              "HomeTeam": "Green Bay Packers",
+              "MatchTime": "2026-10-18 20:20 ET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Washington Commanders",
+              "HomeTeam": "San Francisco 49ers",
+              "MatchTime": "2026-10-19 20:15 ET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            }
+          ],
+          "CompetitionName": "NFL"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Tampa Bay Rays",
+              "HomeTeam": "Cleveland Guardians",
+              "MatchTime": "2026-10-16 20:00 ET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Tampa Bay Rays",
+              "HomeTeam": "Cleveland Guardians",
+              "MatchTime": "2026-10-17 20:00 ET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            }
+          ],
+          "CompetitionName": "MLB"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/ca.png",
+      "CountryName": "Canada",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Pittsburgh Penguins",
+              "HomeTeam": "Colorado Avalanche",
+              "MatchTime": "2026-10-16 18:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Boston Bruins",
+              "HomeTeam": "Anaheim Ducks",
+              "MatchTime": "2026-10-16 19:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New Jersey Devils",
+              "HomeTeam": "Washington Capitals",
+              "MatchTime": "2026-10-17 10:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Carolina Hurricanes",
+              "HomeTeam": "Winnipeg Jets",
+              "MatchTime": "2026-10-17 12:30 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Vancouver Canucks",
+              "HomeTeam": "Tampa Bay Lightning",
+              "MatchTime": "2026-10-17 13:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Seattle Kraken",
+              "HomeTeam": "Florida Panthers",
+              "MatchTime": "2026-10-17 15:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Dallas Stars",
+              "HomeTeam": "Chicago Blackhawks",
+              "MatchTime": "2026-10-17 16:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New York Rangers",
+              "HomeTeam": "Columbus Blue Jackets",
+              "MatchTime": "2026-10-17 16:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "San Jose Sharks",
+              "HomeTeam": "Detroit Red Wings",
+              "MatchTime": "2026-10-17 16:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Buffalo Sabres",
+              "HomeTeam": "Montreal Canadiens",
+              "MatchTime": "2026-10-17 16:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Ottawa Senators",
+              "HomeTeam": "Philadelphia Flyers",
+              "MatchTime": "2026-10-17 16:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New York Islanders",
+              "HomeTeam": "Toronto Maple Leafs",
+              "MatchTime": "2026-10-17 16:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "St. Louis Blues",
+              "HomeTeam": "Nashville Predators",
+              "MatchTime": "2026-10-17 17:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Boston Bruins",
+              "HomeTeam": "Los Angeles Kings",
+              "MatchTime": "2026-10-17 18:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Edmonton Oilers",
+              "HomeTeam": "Utah Mammoth",
+              "MatchTime": "2026-10-17 19:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Pittsburgh Penguins",
+              "HomeTeam": "Vegas Golden Knights",
+              "MatchTime": "2026-10-17 19:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Columbus Blue Jackets",
+              "HomeTeam": "Minnesota Wild",
+              "MatchTime": "2026-10-18 15:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Carolina Hurricanes",
+              "HomeTeam": "Calgary Flames",
+              "MatchTime": "2026-10-18 17:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Anaheim Ducks",
+              "HomeTeam": "New York Rangers",
+              "MatchTime": "2026-10-19 16:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Colorado Avalanche",
+              "HomeTeam": "Philadelphia Flyers",
+              "MatchTime": "2026-10-19 16:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "San Jose Sharks",
+              "HomeTeam": "Toronto Maple Leafs",
+              "MatchTime": "2026-10-19 16:30 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Pittsburgh Penguins",
+              "HomeTeam": "Utah Mammoth",
+              "MatchTime": "2026-10-19 18:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Toronto Maple Leafs",
+              "HomeTeam": "Columbus Blue Jackets",
+              "MatchTime": "2026-10-20 16:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "San Jose Sharks",
+              "HomeTeam": "Montreal Canadiens",
+              "MatchTime": "2026-10-20 16:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Colorado Avalanche",
+              "HomeTeam": "New Jersey Devils",
+              "MatchTime": "2026-10-20 16:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Anaheim Ducks",
+              "HomeTeam": "New York Islanders",
+              "MatchTime": "2026-10-20 16:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Los Angeles Kings",
+              "HomeTeam": "Washington Capitals",
+              "MatchTime": "2026-10-20 16:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Boston Bruins",
+              "HomeTeam": "Dallas Stars",
+              "MatchTime": "2026-10-20 17:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Winnipeg Jets",
+              "HomeTeam": "St. Louis Blues",
+              "MatchTime": "2026-10-20 17:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Minnesota Wild",
+              "HomeTeam": "Edmonton Oilers",
+              "MatchTime": "2026-10-20 18:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Detroit Red Wings",
+              "HomeTeam": "Seattle Kraken",
+              "MatchTime": "2026-10-20 18:40 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Carolina Hurricanes",
+              "HomeTeam": "Vancouver Canucks",
+              "MatchTime": "2026-10-20 19:00 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Tampa Bay Lightning",
+              "HomeTeam": "Vegas Golden Knights",
+              "MatchTime": "2026-10-20 19:30 PDT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            }
+          ],
+          "CompetitionName": "NHL"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/in.png",
+      "CountryName": "India",
+      "Competitions": [
+        {
+          "Fixtures": [],
+          "CompetitionName": "IPL"
+        }
+      ]
+    }
+  ]
+}
