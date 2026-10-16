@@ -1,0 +1,3118 @@
+{
+  "Tables": [
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 6,
+          "Points": 18,
+          "Position": 1,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Manchester City",
+          "GoalsAgainst": 5,
+          "GoalDifference": 11
+        },
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 15,
+          "Position": 2,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Arsenal",
+          "GoalsAgainst": 5,
+          "GoalDifference": 5
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 1,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 13,
+          "Position": 3,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Brighton & Hove Albion",
+          "GoalsAgainst": 5,
+          "GoalDifference": 13
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 4,
+          "Losses": 0,
+          "Played": 6,
+          "Points": 10,
+          "Position": 4,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Brentford",
+          "GoalsAgainst": 6,
+          "GoalDifference": 6
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 4,
+          "Losses": 0,
+          "Played": 6,
+          "Points": 10,
+          "Position": 5,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Everton",
+          "GoalsAgainst": 5,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 10,
+          "Position": 6,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Chelsea",
+          "GoalsAgainst": 13,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 3,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 9,
+          "Position": 7,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Leeds United",
+          "GoalsAgainst": 5,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 3,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 9,
+          "Position": 8,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Hull City",
+          "GoalsAgainst": 6,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 3,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 9,
+          "Position": 9,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Liverpool",
+          "GoalsAgainst": 7,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 9,
+          "Position": 10,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Ipswich Town",
+          "GoalsAgainst": 12,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 8,
+          "Position": 11,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Newcastle United",
+          "GoalsAgainst": 13,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 7,
+          "Position": 12,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Crystal Palace",
+          "GoalsAgainst": 12,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 3,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 6,
+          "Position": 13,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Manchester United",
+          "GoalsAgainst": 9,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 6,
+          "Position": 14,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Coventry City",
+          "GoalsAgainst": 11,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 2,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 5,
+          "Position": 15,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Nottingham Forest",
+          "GoalsAgainst": 8,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 2,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 5,
+          "Position": 16,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Aston Villa",
+          "GoalsAgainst": 11,
+          "GoalDifference": -5
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 4,
+          "Position": 17,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Sunderland",
+          "GoalsAgainst": 12,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 3,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 3,
+          "Position": 18,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "AFC Bournemouth",
+          "GoalsAgainst": 13,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 3,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 3,
+          "Position": 19,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Tottenham Hotspur",
+          "GoalsAgainst": 9,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 2,
+          "Position": 20,
+          "TeamLogo": "https://flagcdn.com/w320/gb.png",
+          "TeamName": "Fulham",
+          "GoalsAgainst": 10,
+          "GoalDifference": -4
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/gb.png",
+      "CountryName": "England",
+      "CompetitionName": "Premier League"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 8,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 8,
+          "Points": 24,
+          "Position": 1,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "FC Barcelona",
+          "GoalsAgainst": 7,
+          "GoalDifference": 27
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 1,
+          "Losses": 1,
+          "Played": 8,
+          "Points": 19,
+          "Position": 2,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "Atlético de Madrid",
+          "GoalsAgainst": 8,
+          "GoalDifference": 10
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 1,
+          "Losses": 1,
+          "Played": 8,
+          "Points": 19,
+          "Position": 3,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "Real Betis",
+          "GoalsAgainst": 9,
+          "GoalDifference": 5
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 8,
+          "Points": 18,
+          "Position": 4,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "Real Madrid",
+          "GoalsAgainst": 8,
+          "GoalDifference": 11
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 8,
+          "Points": 14,
+          "Position": 5,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "Sevilla FC",
+          "GoalsAgainst": 12,
+          "GoalDifference": 1
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 8,
+          "Points": 13,
+          "Position": 6,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "Real Sociedad",
+          "GoalsAgainst": 15,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 2,
+          "Losses": 3,
+          "Played": 8,
+          "Points": 11,
+          "Position": 7,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "Deportivo Alavés",
+          "GoalsAgainst": 8,
+          "GoalDifference": 4
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 4,
+          "Losses": 2,
+          "Played": 8,
+          "Points": 10,
+          "Position": 8,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "RC Deportivo",
+          "GoalsAgainst": 11,
+          "GoalDifference": 1
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 5,
+          "Losses": 2,
+          "Played": 8,
+          "Points": 8,
+          "Position": 9,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "Celta",
+          "GoalsAgainst": 6,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 8,
+          "Position": 10,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "Athletic Club",
+          "GoalsAgainst": 6,
+          "GoalDifference": 1
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 8,
+          "Position": 11,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "Villarreal CF",
+          "GoalsAgainst": 13,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 8,
+          "Position": 12,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "RCD Espanyol de Barcelona",
+          "GoalsAgainst": 11,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 3,
+          "Played": 7,
+          "Points": 8,
+          "Position": 13,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "Rayo Vallecano",
+          "GoalsAgainst": 16,
+          "GoalDifference": -5
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 8,
+          "Position": 14,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "Getafe CF",
+          "GoalsAgainst": 10,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 8,
+          "Position": 15,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "R. Racing Club",
+          "GoalsAgainst": 23,
+          "GoalDifference": -10
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 8,
+          "Position": 16,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "CA Osasuna",
+          "GoalsAgainst": 18,
+          "GoalDifference": -10
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 3,
+          "Losses": 3,
+          "Played": 7,
+          "Points": 6,
+          "Position": 17,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "Levante UD",
+          "GoalsAgainst": 15,
+          "GoalDifference": -4
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 3,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 6,
+          "Position": 18,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "Elche CF",
+          "GoalsAgainst": 17,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 2,
+          "Losses": 5,
+          "Played": 8,
+          "Points": 5,
+          "Position": 19,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "Valencia CF",
+          "GoalsAgainst": 15,
+          "GoalDifference": -9
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 4,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 4,
+          "Position": 20,
+          "TeamLogo": "https://flagcdn.com/w320/es.png",
+          "TeamName": "Málaga CF",
+          "GoalsAgainst": 13,
+          "GoalDifference": -9
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/es.png",
+      "CountryName": "Spain",
+      "CompetitionName": "La Liga"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Atlanta Hawks",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Boston Celtics",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Brooklyn Nets",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Charlotte Hornets",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Chicago Bulls",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Cleveland Cavaliers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Dallas Mavericks",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Denver Nuggets",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Detroit Pistons",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Golden State Warriors",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Houston Rockets",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Indiana Pacers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "LA Clippers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Los Angeles Lakers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Memphis Grizzlies",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Miami Heat",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Milwaukee Bucks",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Minnesota Timberwolves",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "New Orleans Pelicans",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "New York Knicks",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Oklahoma City Thunder",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Orlando Magic",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Philadelphia 76ers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Phoenix Suns",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Portland Trail Blazers",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Sacramento Kings",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "San Antonio Spurs",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Toronto Raptors",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Utah Jazz",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 0,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Washington Wizards",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "CompetitionName": "NBA"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 6,
+          "Points": 16,
+          "Position": 1,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Inter Milan",
+          "GoalsAgainst": 8,
+          "GoalDifference": 10
+        },
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 6,
+          "Points": 16,
+          "Position": 2,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Lazio",
+          "GoalsAgainst": 4,
+          "GoalDifference": 7
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 6,
+          "Points": 14,
+          "Position": 3,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Roma",
+          "GoalsAgainst": 3,
+          "GoalDifference": 11
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 1,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 13,
+          "Position": 4,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Cagliari",
+          "GoalsAgainst": 3,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 3,
+          "Losses": 0,
+          "Played": 6,
+          "Points": 12,
+          "Position": 5,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "AC Milan",
+          "GoalsAgainst": 5,
+          "GoalDifference": 6
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 2,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 11,
+          "Position": 6,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Juventus",
+          "GoalsAgainst": 5,
+          "GoalDifference": 4
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 2,
+          "Losses": 1,
+          "Played": 6,
+          "Points": 11,
+          "Position": 7,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Como",
+          "GoalsAgainst": 6,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 10,
+          "Position": 8,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Napoli",
+          "GoalsAgainst": 6,
+          "GoalDifference": 4
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 10,
+          "Position": 9,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Frosinone Calcio",
+          "GoalsAgainst": 7,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 9,
+          "Position": 10,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Atalanta",
+          "GoalsAgainst": 8,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 8,
+          "Position": 11,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Sassuolo",
+          "GoalsAgainst": 10,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 7,
+          "Position": 12,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Torino",
+          "GoalsAgainst": 9,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 6,
+          "Position": 13,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Lecce",
+          "GoalsAgainst": 12,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 2,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 5,
+          "Position": 14,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Bologna",
+          "GoalsAgainst": 7,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 4,
+          "Position": 15,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Udinese",
+          "GoalsAgainst": 13,
+          "GoalDifference": -4
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 4,
+          "Position": 16,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "AC Monza",
+          "GoalsAgainst": 15,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 4,
+          "Position": 17,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Genoa",
+          "GoalsAgainst": 11,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 4,
+          "Position": 18,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Parma",
+          "GoalsAgainst": 10,
+          "GoalDifference": -6
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 4,
+          "Played": 6,
+          "Points": 4,
+          "Position": 19,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Fiorentina",
+          "GoalsAgainst": 14,
+          "GoalDifference": -7
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 6,
+          "Played": 6,
+          "Points": 0,
+          "Position": 20,
+          "TeamLogo": "https://flagcdn.com/w320/it.png",
+          "TeamName": "Venezia FC",
+          "GoalsAgainst": 16,
+          "GoalDifference": -11
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/it.png",
+      "CountryName": "Italy",
+      "CompetitionName": "Serie A"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 5,
+          "Points": 10,
+          "Position": 1,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "San Francisco 49ers",
+          "GoalsAgainst": 93,
+          "GoalDifference": 61
+        },
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 5,
+          "Points": 10,
+          "Position": 2,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Minnesota Vikings",
+          "GoalsAgainst": 64,
+          "GoalDifference": 45
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 8,
+          "Position": 3,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Kansas City Chiefs",
+          "GoalsAgainst": 77,
+          "GoalDifference": 41
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 5,
+          "Points": 8,
+          "Position": 4,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Jacksonville Jaguars",
+          "GoalsAgainst": 70,
+          "GoalDifference": 53
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 5,
+          "Points": 8,
+          "Position": 5,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Baltimore Ravens",
+          "GoalsAgainst": 119,
+          "GoalDifference": 27
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 5,
+          "Points": 8,
+          "Position": 6,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Buffalo Bills",
+          "GoalsAgainst": 141,
+          "GoalDifference": 23
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 1,
+          "Played": 5,
+          "Points": 7,
+          "Position": 7,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "New York Giants",
+          "GoalsAgainst": 106,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 6,
+          "Points": 8,
+          "Position": 8,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Denver Broncos",
+          "GoalsAgainst": 125,
+          "GoalDifference": -11
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 9,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Chicago Bears",
+          "GoalsAgainst": 96,
+          "GoalDifference": 23
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 10,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Cincinnati Bengals",
+          "GoalsAgainst": 109,
+          "GoalDifference": 19
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 11,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Detroit Lions",
+          "GoalsAgainst": 148,
+          "GoalDifference": 16
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 12,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "New England Patriots",
+          "GoalsAgainst": 94,
+          "GoalDifference": 16
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 13,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Las Vegas Raiders",
+          "GoalsAgainst": 129,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 14,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Pittsburgh Steelers",
+          "GoalsAgainst": 109,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 15,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Green Bay Packers",
+          "GoalsAgainst": 112,
+          "GoalDifference": -8
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 6,
+          "Position": 16,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Cleveland Browns",
+          "GoalsAgainst": 112,
+          "GoalDifference": -19
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 6,
+          "Points": 6,
+          "Position": 17,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Seattle Seahawks",
+          "GoalsAgainst": 122,
+          "GoalDifference": 26
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 4,
+          "Points": 4,
+          "Position": 18,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Carolina Panthers",
+          "GoalsAgainst": 109,
+          "GoalDifference": 12
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 19,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Dallas Cowboys",
+          "GoalsAgainst": 136,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 20,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Los Angeles Rams",
+          "GoalsAgainst": 120,
+          "GoalDifference": -1
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 21,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Atlanta Falcons",
+          "GoalsAgainst": 122,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 22,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "New York Jets",
+          "GoalsAgainst": 96,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 23,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Indianapolis Colts",
+          "GoalsAgainst": 138,
+          "GoalDifference": -14
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 24,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Philadelphia Eagles",
+          "GoalsAgainst": 112,
+          "GoalDifference": -20
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 3,
+          "Position": 25,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Washington Commanders",
+          "GoalsAgainst": 149,
+          "GoalDifference": -34
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 5,
+          "Points": 2,
+          "Position": 26,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Houston Texans",
+          "GoalsAgainst": 112,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 5,
+          "Points": 2,
+          "Position": 27,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Tampa Bay Buccaneers",
+          "GoalsAgainst": 112,
+          "GoalDifference": -12
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 5,
+          "Points": 2,
+          "Position": 28,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "New Orleans Saints",
+          "GoalsAgainst": 151,
+          "GoalDifference": -33
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 5,
+          "Points": 2,
+          "Position": 29,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Arizona Cardinals",
+          "GoalsAgainst": 162,
+          "GoalDifference": -54
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 5,
+          "Played": 5,
+          "Points": 0,
+          "Position": 30,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Los Angeles Chargers",
+          "GoalsAgainst": 129,
+          "GoalDifference": -45
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 5,
+          "Played": 5,
+          "Points": 0,
+          "Position": 31,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Tennessee Titans",
+          "GoalsAgainst": 109,
+          "GoalDifference": -51
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 5,
+          "Played": 5,
+          "Points": 0,
+          "Position": 32,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Miami Dolphins",
+          "GoalsAgainst": 132,
+          "GoalDifference": -62
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "CompetitionName": "NFL"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 5,
+          "Points": 13,
+          "Position": 1,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Freiburg",
+          "GoalsAgainst": 4,
+          "GoalDifference": 10
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 5,
+          "Points": 13,
+          "Position": 2,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Borussia Dortmund",
+          "GoalsAgainst": 4,
+          "GoalDifference": 7
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 5,
+          "Points": 11,
+          "Position": 3,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Bayern Munich",
+          "GoalsAgainst": 4,
+          "GoalDifference": 12
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 1,
+          "Played": 5,
+          "Points": 10,
+          "Position": 4,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Bayer Leverkusen",
+          "GoalsAgainst": 8,
+          "GoalDifference": 6
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 9,
+          "Position": 5,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "RB Leipzig",
+          "GoalsAgainst": 5,
+          "GoalDifference": 10
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 1,
+          "Played": 5,
+          "Points": 8,
+          "Position": 6,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Augsburg",
+          "GoalsAgainst": 8,
+          "GoalDifference": 5
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 1,
+          "Played": 5,
+          "Points": 8,
+          "Position": 7,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Werder Bremen",
+          "GoalsAgainst": 10,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 1,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 7,
+          "Position": 8,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Mainz",
+          "GoalsAgainst": 10,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 1,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 7,
+          "Position": 9,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Elversberg",
+          "GoalsAgainst": 8,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 1,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 7,
+          "Position": 10,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Cologne",
+          "GoalsAgainst": 10,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 6,
+          "Position": 11,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "VfB Stuttgart",
+          "GoalsAgainst": 9,
+          "GoalDifference": -1
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 6,
+          "Position": 12,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Hamburg",
+          "GoalsAgainst": 15,
+          "GoalDifference": -10
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 5,
+          "Position": 13,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Schalke",
+          "GoalsAgainst": 6,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 5,
+          "Points": 5,
+          "Position": 14,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Eintracht Frankfurt",
+          "GoalsAgainst": 16,
+          "GoalDifference": -7
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 15,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Paderborn",
+          "GoalsAgainst": 7,
+          "GoalDifference": -4
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 5,
+          "Points": 4,
+          "Position": 16,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Union Berlin",
+          "GoalsAgainst": 17,
+          "GoalDifference": -12
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 5,
+          "Points": 3,
+          "Position": 17,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Hoffenheim",
+          "GoalsAgainst": 13,
+          "GoalDifference": -4
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 5,
+          "Played": 5,
+          "Points": 0,
+          "Position": 18,
+          "TeamLogo": "https://flagcdn.com/w320/de.png",
+          "TeamName": "Borussia Mönchengladbach",
+          "GoalsAgainst": 18,
+          "GoalDifference": -11
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/de.png",
+      "CountryName": "Germany",
+      "CompetitionName": "Bundesliga"
+    }
+  ],
+  "PlayerConfig": {
+    "ClickCount": 3,
+    "PlayerName": "GoPlayer",
+    "ShowTables": true,
+    "ShowUpdate": false,
+    "ShowFixtures": true,
+    "PlayerPackage": "org.firetube.mediastream",
+    "PlayericonUrl": "https://m.media-amazon.com/images/I/71gqWj6FXHL.png",
+    "UpdatePackage": "com.ukturksapp.fixturestandingni",
+    "UpdateVersion": 1,
+    "ShowTvChannels": false,
+    "ShowLiveMatches": false,
+    "ShowCustomInterAds": false,
+    "PlayInExternalPlayer": false
+  },
+  "CustomInterAds": [],
+  "FootballFixtures": [
+    {
+      "CountryFlag": "https://flagcdn.com/w320/gb.png",
+      "CountryName": "England",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Chelsea",
+              "HomeTeam": "Everton",
+              "MatchTime": "2026-10-17 12:30 BST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Liverpool",
+              "HomeTeam": "Brentford",
+              "MatchTime": "2026-10-17 15:00 BST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Hull City",
+              "HomeTeam": "Fulham",
+              "MatchTime": "2026-10-17 15:00 BST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Ipswich Town",
+              "HomeTeam": "Manchester City",
+              "MatchTime": "2026-10-17 15:00 BST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Aston Villa",
+              "HomeTeam": "Newcastle United",
+              "MatchTime": "2026-10-17 17:30 BST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sunderland",
+              "HomeTeam": "AFC Bournemouth",
+              "MatchTime": "2026-10-18 14:00 BST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Crystal Palace",
+              "HomeTeam": "Brighton & Hove Albion",
+              "MatchTime": "2026-10-18 14:00 BST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Manchester United",
+              "HomeTeam": "Leeds United",
+              "MatchTime": "2026-10-18 14:00 BST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Arsenal",
+              "HomeTeam": "Nottingham Forest",
+              "MatchTime": "2026-10-18 16:30 BST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Coventry City",
+              "HomeTeam": "Tottenham Hotspur",
+              "MatchTime": "2026-10-19 20:00 BST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Nottingham Forest",
+              "HomeTeam": "Ipswich Town",
+              "MatchTime": "2026-10-23 20:00 BST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Manchester City",
+              "HomeTeam": "Aston Villa",
+              "MatchTime": "2026-10-24 12:30 BST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Everton",
+              "HomeTeam": "Arsenal",
+              "MatchTime": "2026-10-24 15:00 BST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Fulham",
+              "HomeTeam": "Coventry City",
+              "MatchTime": "2026-10-24 15:00 BST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Tottenham Hotspur",
+              "HomeTeam": "Chelsea",
+              "MatchTime": "2026-10-24 17:30 BST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Newcastle United",
+              "HomeTeam": "Crystal Palace",
+              "MatchTime": "2026-10-25 14:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Brentford",
+              "HomeTeam": "Hull City",
+              "MatchTime": "2026-10-25 14:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Brighton & Hove Albion",
+              "HomeTeam": "Liverpool",
+              "MatchTime": "2026-10-25 14:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "AFC Bournemouth",
+              "HomeTeam": "Manchester United",
+              "MatchTime": "2026-10-25 14:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Leeds United",
+              "HomeTeam": "Sunderland",
+              "MatchTime": "2026-10-25 16:30 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            }
+          ],
+          "CompetitionName": "Premier League"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/es.png",
+      "CountryName": "Spain",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Levante UD",
+              "HomeTeam": "RC Deportivo",
+              "MatchTime": "2026-10-16 21:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Atlético de Madrid",
+              "HomeTeam": "RCD Espanyol de Barcelona",
+              "MatchTime": "2026-10-17 14:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Elche CF",
+              "HomeTeam": "Villarreal CF",
+              "MatchTime": "2026-10-17 16:15 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "FC Barcelona",
+              "HomeTeam": "Real Betis",
+              "MatchTime": "2026-10-17 18:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Athletic Club",
+              "HomeTeam": "Valencia CF",
+              "MatchTime": "2026-10-17 21:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "R. Racing Club",
+              "HomeTeam": "CA Osasuna",
+              "MatchTime": "2026-10-18 14:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Deportivo Alavés",
+              "HomeTeam": "Celta",
+              "MatchTime": "2026-10-18 16:15 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Real Sociedad",
+              "HomeTeam": "Málaga CF",
+              "MatchTime": "2026-10-18 18:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sevilla FC",
+              "HomeTeam": "Real Madrid",
+              "MatchTime": "2026-10-18 21:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Rayo Vallecano",
+              "HomeTeam": "Getafe CF",
+              "MatchTime": "2026-10-19 21:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Athletic Club",
+              "HomeTeam": "Levante UD",
+              "MatchTime": "2026-10-21 20:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Málaga CF",
+              "HomeTeam": "Deportivo Alavés",
+              "MatchTime": "2026-10-23 21:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Elche CF",
+              "HomeTeam": "Rayo Vallecano",
+              "MatchTime": "2026-10-24 14:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "RCD Espanyol de Barcelona",
+              "HomeTeam": "R. Racing Club",
+              "MatchTime": "2026-10-24 16:15 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Villarreal CF",
+              "HomeTeam": "Valencia CF",
+              "MatchTime": "2026-10-24 18:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "RC Deportivo",
+              "HomeTeam": "Atlético de Madrid",
+              "MatchTime": "2026-10-24 21:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Getafe CF",
+              "HomeTeam": "Athletic Club",
+              "MatchTime": "2026-10-25 14:00 CET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Real Betis",
+              "HomeTeam": "Celta",
+              "MatchTime": "2026-10-25 16:15 CET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Levante UD",
+              "HomeTeam": "Real Sociedad",
+              "MatchTime": "2026-10-25 18:30 CET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Real Madrid",
+              "HomeTeam": "FC Barcelona",
+              "MatchTime": "2026-10-25 21:00 CET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/es.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/es.png"
+            }
+          ],
+          "CompetitionName": "La Liga"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Toronto Raptors",
+              "HomeTeam": "Detroit Pistons",
+              "MatchTime": "2026-10-16 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Milwaukee Bucks",
+              "HomeTeam": "Indiana Pacers",
+              "MatchTime": "2026-10-16 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Miami Heat",
+              "HomeTeam": "Orlando Magic",
+              "MatchTime": "2026-10-16 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Boston Celtics",
+              "HomeTeam": "Philadelphia 76ers",
+              "MatchTime": "2026-10-16 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Minnesota Timberwolves",
+              "HomeTeam": "Chicago Bulls",
+              "MatchTime": "2026-10-16 20:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Atlanta Hawks",
+              "HomeTeam": "Dallas Mavericks",
+              "MatchTime": "2026-10-16 20:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Charlotte Hornets",
+              "HomeTeam": "Memphis Grizzlies",
+              "MatchTime": "2026-10-16 20:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Washington Wizards",
+              "HomeTeam": "New Orleans Pelicans",
+              "MatchTime": "2026-10-16 20:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sacramento Kings",
+              "HomeTeam": "San Antonio Spurs",
+              "MatchTime": "2026-10-16 20:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Portland Trail Blazers",
+              "HomeTeam": "Golden State Warriors",
+              "MatchTime": "2026-10-16 22:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Utah Jazz",
+              "HomeTeam": "Phoenix Suns",
+              "MatchTime": "2026-10-16 22:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Denver Nuggets",
+              "HomeTeam": "Los Angeles Lakers",
+              "MatchTime": "2026-10-16 22:30 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Boston Celtics",
+              "HomeTeam": "Detroit Pistons",
+              "MatchTime": "2026-10-20 15:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Philadelphia 76ers",
+              "HomeTeam": "New York Knicks",
+              "MatchTime": "2026-10-20 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Oklahoma City Thunder",
+              "HomeTeam": "San Antonio Spurs",
+              "MatchTime": "2026-10-20 21:30 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Atlanta Hawks",
+              "HomeTeam": "Orlando Magic",
+              "MatchTime": "2026-10-21 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Milwaukee Bucks",
+              "HomeTeam": "Washington Wizards",
+              "MatchTime": "2026-10-21 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Charlotte Hornets",
+              "HomeTeam": "Brooklyn Nets",
+              "MatchTime": "2026-10-21 19:30 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Minnesota Timberwolves",
+              "HomeTeam": "Miami Heat",
+              "MatchTime": "2026-10-21 19:30 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Chicago Bulls",
+              "HomeTeam": "Toronto Raptors",
+              "MatchTime": "2026-10-21 19:30 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Utah Jazz",
+              "HomeTeam": "Memphis Grizzlies",
+              "MatchTime": "2026-10-21 20:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Indiana Pacers",
+              "HomeTeam": "New Orleans Pelicans",
+              "MatchTime": "2026-10-21 20:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Dallas Mavericks",
+              "HomeTeam": "Houston Rockets",
+              "MatchTime": "2026-10-21 20:30 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Golden State Warriors",
+              "HomeTeam": "Los Angeles Lakers",
+              "MatchTime": "2026-10-21 22:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Phoenix Suns",
+              "HomeTeam": "Portland Trail Blazers",
+              "MatchTime": "2026-10-21 22:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sacramento Kings",
+              "HomeTeam": "LA Clippers",
+              "MatchTime": "2026-10-21 22:30 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Cleveland Cavaliers",
+              "HomeTeam": "Philadelphia 76ers",
+              "MatchTime": "2026-10-22 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Denver Nuggets",
+              "HomeTeam": "Oklahoma City Thunder",
+              "MatchTime": "2026-10-22 21:30 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New York Knicks",
+              "HomeTeam": "Boston Celtics",
+              "MatchTime": "2026-10-23 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Atlanta Hawks",
+              "HomeTeam": "Charlotte Hornets",
+              "MatchTime": "2026-10-23 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Dallas Mavericks",
+              "HomeTeam": "Indiana Pacers",
+              "MatchTime": "2026-10-23 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Minnesota Timberwolves",
+              "HomeTeam": "Orlando Magic",
+              "MatchTime": "2026-10-23 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Toronto Raptors",
+              "HomeTeam": "Washington Wizards",
+              "MatchTime": "2026-10-23 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Detroit Pistons",
+              "HomeTeam": "Miami Heat",
+              "MatchTime": "2026-10-23 20:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Chicago Bulls",
+              "HomeTeam": "Milwaukee Bucks",
+              "MatchTime": "2026-10-23 20:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Houston Rockets",
+              "HomeTeam": "San Antonio Spurs",
+              "MatchTime": "2026-10-23 21:30 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New Orleans Pelicans",
+              "HomeTeam": "Utah Jazz",
+              "MatchTime": "2026-10-23 21:30 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Memphis Grizzlies",
+              "HomeTeam": "Golden State Warriors",
+              "MatchTime": "2026-10-23 22:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "LA Clippers",
+              "HomeTeam": "Los Angeles Lakers",
+              "MatchTime": "2026-10-23 22:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Portland Trail Blazers",
+              "HomeTeam": "Sacramento Kings",
+              "MatchTime": "2026-10-23 22:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Miami Heat",
+              "HomeTeam": "Charlotte Hornets",
+              "MatchTime": "2026-10-24 18:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Brooklyn Nets",
+              "HomeTeam": "Cleveland Cavaliers",
+              "MatchTime": "2026-10-24 19:30 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Milwaukee Bucks",
+              "HomeTeam": "Philadelphia 76ers",
+              "MatchTime": "2026-10-24 19:30 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Washington Wizards",
+              "HomeTeam": "Chicago Bulls",
+              "MatchTime": "2026-10-24 20:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "San Antonio Spurs",
+              "HomeTeam": "Dallas Mavericks",
+              "MatchTime": "2026-10-24 20:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Houston Rockets",
+              "HomeTeam": "Atlanta Hawks",
+              "MatchTime": "2026-10-24 20:30 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New Orleans Pelicans",
+              "HomeTeam": "Denver Nuggets",
+              "MatchTime": "2026-10-24 21:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Golden State Warriors",
+              "HomeTeam": "Phoenix Suns",
+              "MatchTime": "2026-10-24 22:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Los Angeles Lakers",
+              "HomeTeam": "Utah Jazz",
+              "MatchTime": "2026-10-25 17:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Indiana Pacers",
+              "HomeTeam": "Brooklyn Nets",
+              "MatchTime": "2026-10-25 18:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Toronto Raptors",
+              "HomeTeam": "Minnesota Timberwolves",
+              "MatchTime": "2026-10-25 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Orlando Magic",
+              "HomeTeam": "New York Knicks",
+              "MatchTime": "2026-10-25 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "LA Clippers",
+              "HomeTeam": "Oklahoma City Thunder",
+              "MatchTime": "2026-10-25 19:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Detroit Pistons",
+              "HomeTeam": "Philadelphia 76ers",
+              "MatchTime": "2026-10-25 19:30 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Memphis Grizzlies",
+              "HomeTeam": "Sacramento Kings",
+              "MatchTime": "2026-10-25 21:00 EDT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            }
+          ],
+          "CompetitionName": "NBA"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/it.png",
+      "CountryName": "Italy",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sassuolo",
+              "HomeTeam": "Frosinone Calcio",
+              "MatchTime": "2026-10-16 20:45 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Napoli",
+              "HomeTeam": "Venezia FC",
+              "MatchTime": "2026-10-17 15:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Inter Milan",
+              "HomeTeam": "Bologna",
+              "MatchTime": "2026-10-17 18:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Genoa",
+              "HomeTeam": "Roma",
+              "MatchTime": "2026-10-17 20:45 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Lecce",
+              "HomeTeam": "Udinese",
+              "MatchTime": "2026-10-18 12:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Como",
+              "HomeTeam": "Fiorentina",
+              "MatchTime": "2026-10-18 15:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Atalanta",
+              "HomeTeam": "AC Milan",
+              "MatchTime": "2026-10-18 18:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Lazio",
+              "HomeTeam": "Juventus",
+              "MatchTime": "2026-10-18 20:45 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Cagliari",
+              "HomeTeam": "AC Monza",
+              "MatchTime": "2026-10-19 18:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Torino",
+              "HomeTeam": "Parma",
+              "MatchTime": "2026-10-19 20:45 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "AC Monza",
+              "HomeTeam": "Torino",
+              "MatchTime": "2026-10-23 20:45 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Bologna",
+              "HomeTeam": "Cagliari",
+              "MatchTime": "2026-10-24 15:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sassuolo",
+              "HomeTeam": "Como",
+              "MatchTime": "2026-10-24 15:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Roma",
+              "HomeTeam": "Napoli",
+              "MatchTime": "2026-10-24 18:00 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Parma",
+              "HomeTeam": "Lazio",
+              "MatchTime": "2026-10-24 20:45 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Fiorentina",
+              "HomeTeam": "Inter Milan",
+              "MatchTime": "2026-10-25 12:30 CET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Frosinone Calcio",
+              "HomeTeam": "Atalanta",
+              "MatchTime": "2026-10-25 15:00 CET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Venezia FC",
+              "HomeTeam": "Genoa",
+              "MatchTime": "2026-10-25 15:00 CET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Juventus",
+              "HomeTeam": "Lecce",
+              "MatchTime": "2026-10-25 18:00 CET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "AC Milan",
+              "HomeTeam": "Udinese",
+              "MatchTime": "2026-10-25 20:45 CET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/it.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/it.png"
+            }
+          ],
+          "CompetitionName": "Serie A"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Houston Texans",
+              "HomeTeam": "Jacksonville Jaguars",
+              "MatchTime": "2026-10-18 09:30 ET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Chicago Bears",
+              "HomeTeam": "Atlanta Falcons",
+              "MatchTime": "2026-10-18 13:00 ET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Baltimore Ravens",
+              "HomeTeam": "Cleveland Browns",
+              "MatchTime": "2026-10-18 13:00 ET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Tennessee Titans",
+              "HomeTeam": "Indianapolis Colts",
+              "MatchTime": "2026-10-18 13:00 ET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New York Jets",
+              "HomeTeam": "New England Patriots",
+              "MatchTime": "2026-10-18 13:00 ET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New Orleans Saints",
+              "HomeTeam": "New York Giants",
+              "MatchTime": "2026-10-18 13:00 ET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Carolina Panthers",
+              "HomeTeam": "Philadelphia Eagles",
+              "MatchTime": "2026-10-18 13:00 ET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Pittsburgh Steelers",
+              "HomeTeam": "Tampa Bay Buccaneers",
+              "MatchTime": "2026-10-18 13:00 ET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Arizona Cardinals",
+              "HomeTeam": "Los Angeles Rams",
+              "MatchTime": "2026-10-18 16:05 ET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Los Angeles Chargers",
+              "HomeTeam": "Kansas City Chiefs",
+              "MatchTime": "2026-10-18 16:25 ET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Buffalo Bills",
+              "HomeTeam": "Las Vegas Raiders",
+              "MatchTime": "2026-10-18 16:25 ET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Dallas Cowboys",
+              "HomeTeam": "Green Bay Packers",
+              "MatchTime": "2026-10-18 20:20 ET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Washington Commanders",
+              "HomeTeam": "San Francisco 49ers",
+              "MatchTime": "2026-10-19 20:15 ET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            }
+          ],
+          "CompetitionName": "NFL"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/de.png",
+      "CountryName": "Germany",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Cologne",
+              "HomeTeam": "Eintracht Frankfurt",
+              "MatchTime": "2026-10-16 20:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Augsburg",
+              "HomeTeam": "Elversberg",
+              "MatchTime": "2026-10-17 15:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "VfB Stuttgart",
+              "HomeTeam": "Hamburg",
+              "MatchTime": "2026-10-17 15:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Mainz",
+              "HomeTeam": "Schalke",
+              "MatchTime": "2026-10-17 15:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Borussia Dortmund",
+              "HomeTeam": "Union Berlin",
+              "MatchTime": "2026-10-17 15:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Paderborn",
+              "HomeTeam": "Werder Bremen",
+              "MatchTime": "2026-10-17 15:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "RB Leipzig",
+              "HomeTeam": "Bayern Munich",
+              "MatchTime": "2026-10-17 18:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Freiburg",
+              "HomeTeam": "Bayer Leverkusen",
+              "MatchTime": "2026-10-18 15:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Hoffenheim",
+              "HomeTeam": "Borussia Mönchengladbach",
+              "MatchTime": "2026-10-18 17:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Borussia Mönchengladbach",
+              "HomeTeam": "VfB Stuttgart",
+              "MatchTime": "2026-10-23 20:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Union Berlin",
+              "HomeTeam": "Augsburg",
+              "MatchTime": "2026-10-24 15:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Schalke",
+              "HomeTeam": "Cologne",
+              "MatchTime": "2026-10-24 15:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Werder Bremen",
+              "HomeTeam": "Mainz",
+              "MatchTime": "2026-10-24 15:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Hamburg",
+              "HomeTeam": "Paderborn",
+              "MatchTime": "2026-10-24 15:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Elversberg",
+              "HomeTeam": "RB Leipzig",
+              "MatchTime": "2026-10-24 15:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Eintracht Frankfurt",
+              "HomeTeam": "Borussia Dortmund",
+              "MatchTime": "2026-10-24 18:30 CEST",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Bayer Leverkusen",
+              "HomeTeam": "Hoffenheim",
+              "MatchTime": "2026-10-25 15:30 CET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Bayern Munich",
+              "HomeTeam": "Freiburg",
+              "MatchTime": "2026-10-25 17:30 CET",
+              "AwayTeamLogo": "https://flagcdn.com/w320/de.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/de.png"
+            }
+          ],
+          "CompetitionName": "Bundesliga"
+        }
+      ]
+    }
+  ]
+}
